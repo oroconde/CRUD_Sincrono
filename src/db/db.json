@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "nombre": "Bryan",
+    "apellido": "Orozco",
+    "edad": "32",
+    "cel": "301-230",
+    "username": "ryan",
+    "password": "0"
+  },
+  {
+    "id": "2",
+    "nombre": "Tobias",
+    "apellido": "Orozco",
+    "edad": "0",
+    "cel": "0",
+    "username": "0",
+    "password": "0"
+  },
+  {
+    "id": "3",
+    "nombre": "Brenda",
+    "apellido": "Orozco",
+    "edad": "31",
+    "cel": "301",
+    "username": "brendy",
+    "password": "0"
+  },
+  {
+    "id": "4",
+    "nombre": "Orlando",
+    "apellido": "Orozco",
+    "edad": "30",
+    "cel": "313",
+    "username": "Enquie9",
+    "password": "0"
+  },
+  {
+    "id": "5",
+    "nombre": "Bley",
+    "apellido": "Orozco",
+    "edad": "25",
+    "cel": "310",
+    "username": "BGG",
+    "password": "xxx"
+  },
+  {
+    "id": "6",
+    "nombre": "Maura",
+    "apellido": "Conde",
+    "edad": "60",
+    "cel": "316-544",
+    "username": "macoi",
+    "password": "mami"
+  }
+]
