@@ -1,7 +1,6 @@
-## ESTE CRUD CONTIENE MOUDLO SINCRONO y ASINCRONO
+## CRUD SINCRONO
 
-CRUD sync 
-Este programa hace parte del entrenamiento Backend Developer
+CRUD sync, programa de entrenamiento Backend Developer
 
 ### TECNOLOGIA:
 [Nodejs] Entorno de ejecucion de JavaScript de codigo abierto para la capa de servidor
@@ -17,6 +16,3 @@ Bryan Aldair Orozco Conde
 
 #### MENTOR:
 Francisco Javier Jimenez Cohen
-
-
-
